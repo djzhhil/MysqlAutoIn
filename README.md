@@ -1,0 +1,2 @@
+MysqlAutoIn
+一个自动安装mysql的小工具
